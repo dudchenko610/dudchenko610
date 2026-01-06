@@ -25,6 +25,15 @@
 
 ---
 
+### 🏆 Upwork Stats
+
+![Top Rated](https://img.shields.io/badge/Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)
+![10k+ Hours](https://img.shields.io/badge/10%2C000%2B%20Hours-111827?style=for-the-badge&logo=clockify&logoColor=white)
+![Agency](https://img.shields.io/badge/Agency%20Delivery-Up%20to%2020%20Dev-0EA5E9?style=for-the-badge)
+![Worldwide](https://img.shields.io/badge/Clients-Worldwide-8B5CF6?style=for-the-badge)
+
+---
+
 ### 💻 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
