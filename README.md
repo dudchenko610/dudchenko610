@@ -1,4 +1,4 @@
-## ⚡ Ruslan Dudchenko
+# ⚡ Turning ideas into production-ready software
 
 🚀 **Senior Software Engineer** • **Tech Lead**  
 🌍 Working globally • 🧠 Systems thinker • 🛠 Shipping real products
