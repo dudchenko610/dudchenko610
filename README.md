@@ -1,6 +1,6 @@
 # ⚡ Turning ideas into production-ready software
 
-🚀 **Senior Software Engineer** • **Tech Lead**  
+🚀 **Senior Software Engineer** 
 🌍 Working globally • 🧠 Systems thinker • 🛠 Shipping real products
 
 ---
