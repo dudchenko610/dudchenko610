@@ -1,76 +1,47 @@
-<h1 align="center">Hey, I'm Ruslan 👋</h1>
-<h3 align="center">Senior Software Engineer • Tech Lead</h3>
+## ⚡ Ruslan Dudchenko
 
-<p align="center">
-🚀 Building products • 🧠 Solving hard problems • 🌍 Working worldwide
-</p>
+🚀 Software Engineer | Tech Lead | Founder  
+🌍 Working globally • 🧠 Thinking in systems • 🛠 Shipping real products
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💥 What I do
 
-### About me
+🧩 Build complex web & mobile applications  
+☁️ Design cloud infrastructure that doesn’t fall apart  
+👥 Lead engineering teams and delivery pipelines  
+✍️ Write deep-dive technical articles  
+🔥 Turn ideas into production systems
 
-I’m a senior software engineer and tech lead running an engineering agency of **up to 20 developers**, delivering **web and mobile solutions** for clients all over the world.
+---
 
-I focus on building **reliable, scalable systems**, setting up **production-ready cloud infrastructure**, and helping teams ship faster without cutting corners.
+### 🏅 Proof of work
 
-I enjoy projects where **architecture, performance, and long-term maintainability** actually matter.
+⭐ Top Rated on Upwork  
+⏱ 10,000+ engineering hours  
+👨‍💻 Agency with up to 20 developers  
+📚 Multiple published engineering articles  
+🧱 Custom Blazor component library
 
-<br/>
+---
 
-### Highlights
+### 🧠 Tech I enjoy
 
-- ⭐ **Top Rated on Upwork**
-- ⏱ **10,000+ hours** with real production systems
-- 👥 Leading distributed teams across multiple time zones
-- ✍️ Author of technical articles read by thousands of developers
-- 🧩 Creator of a Blazor component ecosystem
+🟣 Blazor (a lot)  
+🔵 .NET / .NET Core  
+🟠 Angular  
+☁️ Azure • CI/CD • DevOps  
+📱 MAUI • Native Android
 
-<br/>
+---
 
-### Writing & Knowledge Sharing
+### 🧪 Philosophy
 
-I regularly write about **real-world engineering problems**, not toy examples:
+⚙️ Architecture matters  
+🧼 Clean code scales teams  
+📦 Shipping beats perfection  
+📈 Learning never stops
 
-- Native MapLibre / Mapbox in MAUI Hybrid  
-- Advanced Blazor UI patterns  
-- Integrating npm tooling into .NET ecosystems  
-- Mobile + web cross-platform architecture  
+---
 
-</td>
-
-<td width="50%" valign="top">
-
-### What I work with
-
-**Backend & Web**
-- .NET / .NET Core  
-- Blazor (deep expertise)  
-- Angular  
-
-<br/>
-
-**Cloud & DevOps**
-- Azure (App Services, Container Apps)  
-- Azure DevOps pipelines  
-- DigitalOcean  
-- DNS, CI/CD, infrastructure automation  
-
-<br/>
-
-**Mobile**
-- .NET MAUI  
-- Native Android (Java, SDK-level work)  
-
-<br/>
-
-### Current mindset
-
-```text
-Build things that last.
-Automate what repeats.
-Ship early, refine often.
-Learn continuously.
+🚧 **More cool things coming soon…**
