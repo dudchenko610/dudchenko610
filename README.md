@@ -1,33 +1,78 @@
-<h1>⚡ Ruslan Dudchenko</h1>
-
-<p>
-  🚀 <b>Software Engineer</b> • 🧠 <b>Tech Lead</b> • 🧱 <b>Founder</b><br/>
-  🌍 Working globally • ⚙️ Thinking in systems • 🔧 Shipping real products
+<!-- HERO / BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ruslan%20Dudchenko&fontAlign=50&fontAlignY=35&color=0:0f172a,100:111827&fontColor=ffffff" />
 </p>
 
-<p>
+<p align="center">
+  <b>Software Engineer</b> • <b>Tech Lead</b> • <b>Founder</b><br/>
+  🌍 Working globally • 🧠 Thinking in systems • 🔧 Shipping real products
+</p>
+
+<p align="center">
   <a href="https://www.upwork.com/freelancers/ruslandudchenko">Upwork</a> •
   <a href="https://blazor-component-heap.com">Blazor Component Heap</a> •
   <a href="https://medium.com/@r.dudchenko18">Medium</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&width=900&lines=Build+things+that+last.;Automate+what+repeats.;Ship+early%2C+refine+often.;Architecture+%2B+Delivery+%2B+Quality." />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dudchenko610&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Build+things+that+last.;Automate+what+repeats.;Ship+early%2C+refine+often.;Architecture+%2B+Delivery+%2B+Quality." />
+</p>
 
 ---
 
-| 💥 What I do | 🏆 Proof of work |
-|---|---|
-| 🧩 Build complex **web & mobile** applications  <br/> ☁️ Design cloud infra that **doesn’t fall apart** <br/> 👥 Lead teams + delivery pipelines <br/> ✍️ Write deep-dive engineering articles <br/> 🔥 Turn ideas into production systems | ⭐ **Top Rated** on Upwork <br/> ⏱ **10,000+ hours** shipped in real products <br/> 👨‍💻 Agency delivery: **up to 20 developers** <br/> 🧱 Built and maintain reusable UI/components <br/> 🚀 Strong focus on reliability + shipping |
+<!-- TECH ICON ROW -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,blazor,angular,azure,docker,ts,js,html,css,androidstudio,java,postgres,mysql,git,githubactions&perline=8" />
+</p>
 
 ---
 
-| 🧠 Tech I enjoy | 🧪 Philosophy |
-|---|---|
-| 🟣 **Blazor** (a lot) <br/> 🔵 **.NET / .NET Core** <br/> 🟠 **Angular** <br/> ☁️ **Azure** (App Services, Container Apps) <br/> 🔁 **CI/CD** (Azure DevOps pipelines) <br/> 🌐 DNS + DigitalOcean <br/> 📱 **MAUI** + Native **Android (Java SDK)** | ⚙️ Architecture matters <br/> 🧼 Clean code scales teams <br/> 📦 Shipping beats perfection <br/> 📈 Learning never stops <br/> 🧩 Strong opinions, loosely held |
+<!-- TWO-COLUMN LAYOUT (LEFT TEXT + RIGHT ILLUSTRATION) -->
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+### 💥 What I do
+
+- 🧩 Build complex **web & mobile** applications  
+- ☁️ Design cloud infrastructure that **doesn’t fall apart**  
+- 👥 Lead engineering teams and delivery pipelines  
+- ✍️ Write deep-dive engineering articles  
+- 🔥 Turn ideas into **production systems**
+
+### 🏆 Proof of work
+
+- ⭐ **Top Rated** on Upwork  
+- ⏱ **10,000+ hours** of real-world delivery  
+- 👨‍💻 Agency execution: **up to 20 developers**  
+- 🧱 Built a Blazor component ecosystem  
+- 🚀 Strong focus on reliability + shipping
+
+### 🧪 Philosophy
+
+- ⚙️ Architecture matters  
+- 🧼 Clean code scales teams  
+- 📦 Shipping beats perfection  
+- 📈 Learning never stops  
+
+    </td>
+    <td width="42%" valign="top" align="center">
+
+<img alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+<sub>⚡ Always building • Always learning • Always improving</sub>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ✍️ Featured writing (real-world engineering)
+## ✍️ Featured writing
 
 - Native MapLibre / Mapbox maps in MAUI Hybrid  
   https://medium.com/@r.dudchenko18/native-maplibre-mapbox-maps-in-maui-hybrid-app-c02ccd4c5a54
@@ -46,7 +91,8 @@
 
 ---
 
-### ⚡ Current status
-🧠 Think → 🛠 Build → 🚀 Ship → 🔁 Improve
+<!-- CONNECT -->
+<h3 align="center">🤝 Connect with me</h3>
 
-> 🔥 More cool things are cooking — I prefer to publish when they’re production-ready.
+<p align="center">
+  <!-- ✅ Replace with your real
