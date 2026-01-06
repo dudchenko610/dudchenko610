@@ -5,13 +5,13 @@
 🚀 Building products • 🧠 Solving hard problems • 🌍 Working worldwide
 </p>
 
----
+<br/>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-## 🧭 About me
+### 🧭 About me
 
 I’m a software engineer and tech lead running an engineering agency of **up to 20 developers**, delivering **web and mobile solutions** for clients all over the world.
 
@@ -19,9 +19,9 @@ I focus on building **reliable, scalable systems**, setting up **production-read
 
 I enjoy projects where **architecture, performance, and long-term maintainability** actually matter.
 
----
+<br/>
 
-## 🏆 Highlights
+### 🏆 Highlights
 
 - ⭐ **Top Rated on Upwork**
 - ⏱ **10,000+ hours worked** with real production systems
@@ -29,9 +29,9 @@ I enjoy projects where **architecture, performance, and long-term maintainabilit
 - ✍️ Author of technical articles read by thousands of developers
 - 🧩 Creator of a Blazor component ecosystem
 
----
+<br/>
 
-## ✍️ Writing & Knowledge Sharing
+### ✍️ Writing & Knowledge Sharing
 
 I regularly write about **real-world engineering problems**, not toy examples:
 
@@ -44,28 +44,32 @@ I believe good engineers **document, share, and challenge ideas**.
 
 </td>
 
-<td width="45%" valign="top" align="right">
+<td width="45%" valign="top">
 
-## 🛠 What I work with
+### 🛠 What I work with
 
-### Backend & Web
+**Backend & Web**
 - .NET / .NET Core  
 - Blazor (deep expertise)  
 - Angular  
 
-### Cloud & DevOps
+<br/>
+
+**Cloud & DevOps**
 - Azure (App Services, Container Apps)  
 - Azure DevOps pipelines  
 - DigitalOcean  
 - DNS, CI/CD, infrastructure automation  
 
-### Mobile
+<br/>
+
+**Mobile**
 - .NET MAUI  
 - Native Android (Java, SDK-level work)  
 
----
+<br/>
 
-## 🧪 Current mindset
+### 🧪 Current mindset
 
 ```text
 Build things that last.
