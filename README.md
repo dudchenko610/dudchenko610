@@ -20,7 +20,6 @@
 
 - ⭐ **Top Rated on Upwork**
 - ⏱ **10,000+ hours** of production engineering
-- 👨‍💻 Agency delivery: **up to 20 developers**
 - 📚 Multiple published technical articles
 - 🧱 Creator of a **Blazor component ecosystem**
 
